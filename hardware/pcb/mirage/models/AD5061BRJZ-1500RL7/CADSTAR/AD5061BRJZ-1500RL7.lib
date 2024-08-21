@@ -1,0 +1,16 @@
+.AD5061BRJZ-1500RL7 :1 ;DAC 1-CH Segment 16-bit 8-Pin SOT-23 T/R
+SOT65P280X145-8N
+*STM IC
+*NGS
+*PLB 1="DIN" 2="VDD" 3="VREF" 4="VOUT" 5="AGND" 6="DACGND" 7="'SYNC'" 8="SCLK"
+*MXP 8
+*DFN AD5061BRJZ-1500RL7
+~!Mouser Part Number (584-AD5061BRJZ1500R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD5061BRJZ-1500RL7?qs=NmRFExCfTkErstKr48Qwig%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (AD5061BRJZ-1500RL7)
+~!Link Datasheet (-)
+~!Height (1.45mm)
+~!3D_Model (AD5061BRJZ-1500RL7)
+AD5061BRJZ-1500RL7
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

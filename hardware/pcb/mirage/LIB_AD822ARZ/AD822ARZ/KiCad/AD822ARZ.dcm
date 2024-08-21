@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD822ARZ
+D Dual low power op amp,AD822AR SO8
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD822.pdf
+$ENDCMP
+#
+#End Doc Library

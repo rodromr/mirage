@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=AD5061BRJZ-1500RL7
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (8-Pin)
+PinCount=8
+Version=4.1
+Released=2022-03-08 07:31:44
+Downloaded=2023-10-05 17:11:58
+3D=Y

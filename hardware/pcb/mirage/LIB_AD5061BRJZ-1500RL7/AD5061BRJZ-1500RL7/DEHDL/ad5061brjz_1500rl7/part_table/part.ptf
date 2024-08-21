@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD5061BRJZ_1500RL7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "AD5061BRJZ-1500RL7" (!) = "", "SOT65P280X145-8N", "SOT23 (8-Pin)", "584-AD5061BRJZ1500R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD5061BRJZ-1500RL7?qs=NmRFExCfTkErstKr48Qwig%3D%3D", "DAC 1-CH Segment 16-bit 8-Pin SOT-23 T/R", "", "1.45 mm"
+END_PART
+
+END.
