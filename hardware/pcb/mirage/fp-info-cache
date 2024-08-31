@@ -1,4 +1,4 @@
-6866712003229
+12041960471652
 footprints
 Arduino_Nano_ESP32_Socket
 https://docs.arduino.cc/hardware/nano-esp32
@@ -21,9 +21,30 @@ IRF510PBF
 3
 3
 footprints
+PJ-307
+
+
+0
+5
+5
+footprints
 adafruit_st7735r
 
 
 0
 10
 10
+footprints
+ti_LM4041CILPR
+<b>LP (O-PBCY-W3)</b> TO-92/TO-226<p>0.8mm holes, Source: http://focus.ti.com/lit/ds/slcs146e/slcs146e.pdf
+
+0
+3
+3
+footprints
+ti_TLV5618AIP
+P (R-PDIP-T8)
+Integrated Circuit
+0
+8
+8
